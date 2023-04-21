@@ -60,6 +60,9 @@ Data is extracted from four tables. And these are:
 Just to note that the difference between Dimension table and Fact table are that:
 1. Fact tables contain quantitative data (facts) about a specific event or transaction, such as sales figures or website clicks, while dimension tables contain descriptive data about the various aspects or attributes of the event, such as the customer, product, or time period.
 
-Granularity: Fact tables are usually at a lower level of granularity than dimension tables. For example, a fact table might have individual sales transactions, while a dimension table might have information about each product sold, such as its name, category, and manufacturer.
+2. Granularity: Fact tables are usually at a lower level of granularity than dimension tables. For example, a fact table might have individual sales transactions, while a dimension table might have information about each product sold, such as its name, category, and manufacturer.
 
-Joins: Fact tables are often joined to one or more dimension tables to provide additional context and meaning to the quantitative data. Dimension tables can be used to filter and group the data in the fact table, making it easier to analyze and understand.
+3. Joins: Fact tables are often joined to one or more dimension tables to provide additional context and meaning to the quantitative data. Dimension tables can be used to filter and group the data in the fact table, making it easier to analyze and understand.
+
+----
+# Power BI
