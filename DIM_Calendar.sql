@@ -24,4 +24,4 @@ SELECT
 FROM 
  [AdventureWorksDW2019].[dbo].[DimDate]
 WHERE 
-  CalendarYear >= 2019
+  CalendarYear >= 2021
