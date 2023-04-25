@@ -73,3 +73,16 @@ The tables had to be joined together withe their common primary key and below is
 
 ## **Sales Overview**
 ![image](https://user-images.githubusercontent.com/68794860/234279545-efe93408-c93c-440a-864b-a9b1abed8e11.png)
+
+The Sales Overview dashboard shows the following:
+1. Sales made and Budget - It shows the Total sales made per year and the allocated Budget per year. It also shows the if more sales were made than the allocated budget.
+2. Sales by Product
+3. Top 10 Product
+4. Top 10 Customers
+5. And a trend of Sales and Budget per month. This is to observe the progress of sales per month
+
+## **Customer Details**
+
+![image](https://user-images.githubusercontent.com/68794860/234284764-5162928a-7650-4cbf-b2b0-e8e7b9504272.png)
+
+## **PRoduct Details**
