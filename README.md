@@ -66,3 +66,10 @@ Just to note that the difference between Dimension table and Fact table are that
 
 ----
 # Power BI
+The tables had to be joined together withe their common primary key and below is the data model of the tables:
+
+![image](https://user-images.githubusercontent.com/68794860/234278097-a6ecdab8-b536-4099-8035-8795367ee5bc.png)
+
+
+## **Sales Overview**
+![image](https://user-images.githubusercontent.com/68794860/234279545-efe93408-c93c-440a-864b-a9b1abed8e11.png)
