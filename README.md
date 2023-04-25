@@ -64,6 +64,12 @@ Just to note that the difference between Dimension table and Fact table are that
 
 3. Joins: Fact tables are often joined to one or more dimension tables to provide additional context and meaning to the quantitative data. Dimension tables can be used to filter and group the data in the fact table, making it easier to analyze and understand.
 
+---
+# **SQL**
+To get the dataset to use, i made use of the adventure works DB on Microsoft Server. I extracted the necessary columns that would help with the business objective.
+
+
+
 ----
 # Power BI
 The tables had to be joined together withe their common primary key and below is the data model of the tables:
@@ -85,4 +91,7 @@ The Sales Overview dashboard shows the following:
 
 ![image](https://user-images.githubusercontent.com/68794860/234284764-5162928a-7650-4cbf-b2b0-e8e7b9504272.png)
 
-## **PRoduct Details**
+## **Product Details**
+
+---
+The other two visuals are for more details on the customer and product. It shows more of the top sold products and top customer.
